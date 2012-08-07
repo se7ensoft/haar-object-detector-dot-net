@@ -1,6 +1,6 @@
 #summary Descriptions about detection parameters
 || *Parameter* || *Description* ||
-|| !MaxDetCount || Detector stops searching when number of detected objects reachs this value. ||
+|| !MaxDetCount || Detector stops searching when number of detected objects reaches this value. ||
 || MinNRectCount || Minimum neighbour areas must be passed the detector to verify existence of searched object. ||
 || !FirstScale || First scaler of searching window. ||
 || !MaxScale || Maximum scaler of searching window. ||
